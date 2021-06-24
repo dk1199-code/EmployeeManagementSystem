@@ -1,0 +1,12 @@
+F:\Project in Span\Project2\EmployeeDetailS.Entity\bin\Debug\netcoreapp3.1\EmployeeDetailS.Entity.deps.json
+F:\Project in Span\Project2\EmployeeDetailS.Entity\bin\Debug\netcoreapp3.1\EmployeeDetailS.Entity.runtimeconfig.json
+F:\Project in Span\Project2\EmployeeDetailS.Entity\bin\Debug\netcoreapp3.1\EmployeeDetailS.Entity.runtimeconfig.dev.json
+F:\Project in Span\Project2\EmployeeDetailS.Entity\bin\Debug\netcoreapp3.1\EmployeeDetailS.Entity.dll
+F:\Project in Span\Project2\EmployeeDetailS.Entity\bin\Debug\netcoreapp3.1\EmployeeDetailS.Entity.pdb
+F:\Project in Span\Project2\EmployeeDetailS.Entity\obj\Debug\netcoreapp3.1\EmployeeDetailS.Entity.csprojAssemblyReference.cache
+F:\Project in Span\Project2\EmployeeDetailS.Entity\obj\Debug\netcoreapp3.1\EmployeeDetailS.Entity.AssemblyInfoInputs.cache
+F:\Project in Span\Project2\EmployeeDetailS.Entity\obj\Debug\netcoreapp3.1\EmployeeDetailS.Entity.AssemblyInfo.cs
+F:\Project in Span\Project2\EmployeeDetailS.Entity\obj\Debug\netcoreapp3.1\EmployeeDetailS.Entity.csproj.CoreCompileInputs.cache
+F:\Project in Span\Project2\EmployeeDetailS.Entity\obj\Debug\netcoreapp3.1\EmployeeDetailS.Entity.dll
+F:\Project in Span\Project2\EmployeeDetailS.Entity\obj\Debug\netcoreapp3.1\EmployeeDetailS.Entity.pdb
+F:\Project in Span\Project2\EmployeeDetailS.Entity\obj\Debug\netcoreapp3.1\EmployeeDetailS.Entity.genruntimeconfig.cache

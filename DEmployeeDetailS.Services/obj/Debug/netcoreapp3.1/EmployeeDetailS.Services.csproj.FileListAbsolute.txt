@@ -1,0 +1,14 @@
+F:\Project in Span\Project2\DEmployeeDetailS.Services\bin\Debug\netcoreapp3.1\EmployeeDetailS.Services.deps.json
+F:\Project in Span\Project2\DEmployeeDetailS.Services\bin\Debug\netcoreapp3.1\EmployeeDetailS.Services.dll
+F:\Project in Span\Project2\DEmployeeDetailS.Services\bin\Debug\netcoreapp3.1\EmployeeDetailS.Services.pdb
+F:\Project in Span\Project2\DEmployeeDetailS.Services\bin\Debug\netcoreapp3.1\EmployeeDetailS.Core.dll
+F:\Project in Span\Project2\DEmployeeDetailS.Services\bin\Debug\netcoreapp3.1\EmployeeDetailS.Entity.dll
+F:\Project in Span\Project2\DEmployeeDetailS.Services\bin\Debug\netcoreapp3.1\EmployeeDetailS.Core.pdb
+F:\Project in Span\Project2\DEmployeeDetailS.Services\bin\Debug\netcoreapp3.1\EmployeeDetailS.Entity.pdb
+F:\Project in Span\Project2\DEmployeeDetailS.Services\obj\Debug\netcoreapp3.1\EmployeeDetailS.Services.csprojAssemblyReference.cache
+F:\Project in Span\Project2\DEmployeeDetailS.Services\obj\Debug\netcoreapp3.1\EmployeeDetailS.Services.AssemblyInfoInputs.cache
+F:\Project in Span\Project2\DEmployeeDetailS.Services\obj\Debug\netcoreapp3.1\EmployeeDetailS.Services.AssemblyInfo.cs
+F:\Project in Span\Project2\DEmployeeDetailS.Services\obj\Debug\netcoreapp3.1\EmployeeDetailS.Services.csproj.CoreCompileInputs.cache
+F:\Project in Span\Project2\DEmployeeDetailS.Services\obj\Debug\netcoreapp3.1\EmployeeDetailS.Services.csproj.CopyComplete
+F:\Project in Span\Project2\DEmployeeDetailS.Services\obj\Debug\netcoreapp3.1\EmployeeDetailS.Services.dll
+F:\Project in Span\Project2\DEmployeeDetailS.Services\obj\Debug\netcoreapp3.1\EmployeeDetailS.Services.pdb

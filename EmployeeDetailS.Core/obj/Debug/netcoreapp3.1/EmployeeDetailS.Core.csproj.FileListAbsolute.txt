@@ -1,0 +1,12 @@
+F:\Project in Span\Project2\EmployeeDetailS.Core\bin\Debug\netcoreapp3.1\EmployeeDetailS.Core.deps.json
+F:\Project in Span\Project2\EmployeeDetailS.Core\bin\Debug\netcoreapp3.1\EmployeeDetailS.Core.dll
+F:\Project in Span\Project2\EmployeeDetailS.Core\bin\Debug\netcoreapp3.1\EmployeeDetailS.Core.pdb
+F:\Project in Span\Project2\EmployeeDetailS.Core\bin\Debug\netcoreapp3.1\EmployeeDetailS.Entity.dll
+F:\Project in Span\Project2\EmployeeDetailS.Core\bin\Debug\netcoreapp3.1\EmployeeDetailS.Entity.pdb
+F:\Project in Span\Project2\EmployeeDetailS.Core\obj\Debug\netcoreapp3.1\EmployeeDetailS.Core.csprojAssemblyReference.cache
+F:\Project in Span\Project2\EmployeeDetailS.Core\obj\Debug\netcoreapp3.1\EmployeeDetailS.Core.AssemblyInfoInputs.cache
+F:\Project in Span\Project2\EmployeeDetailS.Core\obj\Debug\netcoreapp3.1\EmployeeDetailS.Core.AssemblyInfo.cs
+F:\Project in Span\Project2\EmployeeDetailS.Core\obj\Debug\netcoreapp3.1\EmployeeDetailS.Core.csproj.CoreCompileInputs.cache
+F:\Project in Span\Project2\EmployeeDetailS.Core\obj\Debug\netcoreapp3.1\EmployeeDetailS.Core.csproj.CopyComplete
+F:\Project in Span\Project2\EmployeeDetailS.Core\obj\Debug\netcoreapp3.1\EmployeeDetailS.Core.dll
+F:\Project in Span\Project2\EmployeeDetailS.Core\obj\Debug\netcoreapp3.1\EmployeeDetailS.Core.pdb

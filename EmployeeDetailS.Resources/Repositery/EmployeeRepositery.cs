@@ -224,7 +224,69 @@ namespace EmployeeDetailS.Resources.Repositery
         }
         #endregion
 
+        #region FileUpload
+        public  void FileUpload(FilesModel filEs )
+        {
+            if (filEs.FilE != null)
+            {
+                Files uploaDfilE = new Files();
+                using (var entity = new EmployeemanagementsystemEntity())
+                {
+                    uploaDfilE.File_Name = filEs.filesname; 
+                    uploaDfilE.Upload_File = filEs.UploadFile;
+                    entity.Files.Add(uploaDfilE);
+                    entity.SaveChanges();
 
+                }
+            }
+        }
+        #endregion
+
+        #region ViewFiles
+
+        public List<FilesModel> GetFile()
+        {
+            List<FilesModel> fileDetails = new List<FilesModel>();
+
+            using (var entity = new EmployeemanagementsystemEntity())
+            {
+                fileDetails = (from file in entity.Files
+                               where file.Is_Deleted == false
+                               select new FilesModel
+                               {
+                                   FileID = file.File_ID,
+                                   filesname = file.File_Name,
+                                   UploadFile = file.Upload_File
+                               }).ToList();
+            }
+
+                return fileDetails;
+        }
+
+        #endregion
+
+        #region Deletefile
+
+        public void DeleteFile(int Id)
+        {
+            if (Id != 0)
+            {
+                using (var entity = new EmployeemanagementsystemEntity())
+                {
+                    var FileData = entity.Files.Where(x => x.File_ID == Id && x.Is_Deleted == false).SingleOrDefault();
+                    if (FileData != null)
+                    {
+                        FileData.Is_Deleted = true;
+                        FileData.Updated_Time_Stamp = DateTime.Now;
+                        entity.SaveChanges();
+                    }
+
+                }
+
+            }
+
+        }
+        #endregion
 
     }
 }

@@ -20,6 +20,7 @@ namespace EmployeeDetailS.Entity
 
         public virtual DbSet<DepartmentDetails> DepartmentDetails { get; set; }
         public virtual DbSet<EmployeeDetails> EmployeeDetails { get; set; }
+        public virtual DbSet<Files> Files { get; set; }
         public virtual DbSet<LoginDetails> LoginDetails { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -28,7 +29,7 @@ namespace EmployeeDetailS.Entity
             {
                 optionsBuilder.UseSqlServer("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=EmployeeManagementSystem;Integrated Security=True");
             }
-        } 
+        }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -60,6 +61,15 @@ namespace EmployeeDetailS.Entity
                 entity.Property(e => e.Updated_Time_Stamp).HasDefaultValueSql("(getdate())");
 
                 entity.Property(e => e.Username).IsUnicode(false);
+            });
+
+            modelBuilder.Entity<Files>(entity =>
+            {
+                entity.Property(e => e.Created_Time_Stamp).HasDefaultValueSql("(getdate())");
+
+                entity.Property(e => e.File_Name).IsUnicode(false);
+
+                entity.Property(e => e.Updated_Time_Stamp).HasDefaultValueSql("(getdate())");
             });
 
             modelBuilder.Entity<LoginDetails>(entity =>

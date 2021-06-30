@@ -36,6 +36,21 @@ namespace EmployeeDetailS.Core.IEmployeeReposicery
         public EmployeeDetailsModel EditEmployeeDetails(int emploId);
         #endregion
 
+        #region FileUpload
+        public void FileUpload(FilesModel filE);
+        #endregion
+
+        #region ViewFiles
+
+        public List<FilesModel> GetFile ();
+
+        #endregion
+
+        #region Deletefile
+
+        public void DeleteFile (int Id );
+        #endregion
+
 
     }
 }

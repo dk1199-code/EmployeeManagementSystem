@@ -22,6 +22,10 @@
          "ObjectType": 0
       },
       {
+         "Name": "[dbo].[Files]",
+         "ObjectType": 0
+      },
+      {
          "Name": "[dbo].[LoginDetails]",
          "ObjectType": 0
       }

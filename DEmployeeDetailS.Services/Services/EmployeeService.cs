@@ -61,5 +61,29 @@ namespace EmployeeDetailS.Services.Services
             return _iEmployeeDetails.EditEmployeeDetails(emploId);
         }
         #endregion
+
+        #region FileUpload
+        public void FileUpload(FilesModel filE)
+        {
+            _iEmployeeDetails.FileUpload(filE);
+        }
+        #endregion
+
+        #region ViewFiles
+
+        public List<FilesModel> GetFile()
+        {
+            return _iEmployeeDetails.GetFile();
+        }
+
+        #endregion
+
+        #region Deletefile
+
+        public void DeleteFile(int Id)
+        {
+            _iEmployeeDetails.DeleteFile(Id);
+        }
+        #endregion
     }
 }
